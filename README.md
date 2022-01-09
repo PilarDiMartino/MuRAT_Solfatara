@@ -4,7 +4,7 @@ MuRAT version codes developed for the paper Reconstructing hydrothermal fluid pa
 
 The "Results_paper" folder contains the results of the simulations (at 4 frequencies) used for the figures in the paper.
 
-The Solfatara Catologue (sac_SOL folder) is available on request to Grazia De Landro: delandro@fisica.unina.it
+The Solfatara Catologue (sac_SOL folder) is available on request.
 
 
 
